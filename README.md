@@ -18,5 +18,5 @@ The final result is a set of reusable SQL queries for core KPIs (Total Sales, To
 
 - GitHub repository: https://github.com/hemoabdullah/Business-Intelligence  
 - Looker Studio dashboard: https://lookerstudio.google.com/embed/reporting/8e31d809-6197-4d02-9c40-740f3b93aa3b/page/KsRiF
-Source: Kaggle - Northwind Traders 
-URL: https://www.kaggle.com/datasets/jeetahirwar/northwind-traders
+- Source: Kaggle - Northwind Traders
+- URL: https://www.kaggle.com/datasets/jeetahirwar/northwind-traders
